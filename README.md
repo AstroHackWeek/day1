@@ -1,4 +1,7 @@
-day1
-====
+AstroHackWeek Day 1 Outline:
+===========================
 
-Day 1 material for AstroData Hack Week
+- Reproducible Computing with the IPython Notebook
+- Numerical Computation with NumPy
+- Visualization with Matplotlib
+- Brief demos of interesting tools: pandas, scipy, etc.
